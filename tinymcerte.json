@@ -1,0 +1,8 @@
+{
+  "schema": "html5",
+  "valid_elements": "*[*]",
+  "height": 600,
+  "element_format": "html",
+  "plugins": "advlist autolink lists modximage charmap print preview anchor visualblocks searchreplace code fullscreen insertdatetime media table contextmenu paste modxlink hr wordcount visualchars",
+  "content_css": "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css,assets/css/main.css,assets/fonts/fonts.css,assets/css/sprite.css"
+}
